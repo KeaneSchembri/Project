@@ -1,0 +1,11 @@
+Revised Project Schedule Plan - As not all deliverables where done as scheduled;
+
+1st April - 10th April: SOI
+10th April- 15th April: Project Schedule
+16th April - 30th April: Literature Review / Coding
+1st May - 8th May: Methodology / Coding
+9th May - 23rd May: Introduction / Abstract / Test and Results / Conclusion
+24th May - 5th June: Submission of SOI / Publish Document in IEEE Format
+
+The above schedule was how my timeline planned out during the development of this prototype and research paper 
+due to other commitments.
